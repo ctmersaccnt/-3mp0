@@ -1,1 +1,10 @@
+// Add random links to the text files while removing a few & messing with conflict merges
 
+
+https://processing.org/download/support.html
+
+https://www.instructables.com/class/Arduino-Class/
+
+https://www.instructables.com/class/Internet-of-Things-Class/
+
+https://www.instructables.com/howto/internet+of+things/
